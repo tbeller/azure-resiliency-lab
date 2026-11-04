@@ -1,0 +1,15 @@
+# Git
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+*.user
+.vs/
+.env
+*.tfstate
+published/
+# local tooling
+.venv/
+__pycache__/
+# OS
+.DS_Store
